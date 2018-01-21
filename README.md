@@ -5,10 +5,11 @@ You can download thia app in app store!
 
 ### PreWallpaper
 
-Here we are!
-#### *This application is specially designed for lock screen wallpaper.
-#### *This application supports iPhone X and common iPhone.
-#### *This application supports iPad.
+#### Here we are!
+
+*This application is specially designed for lock screen wallpaper.
+*This application supports iPhone X and common iPhone.
+*This application supports iPad.
 
 ### Support or Contact
 
